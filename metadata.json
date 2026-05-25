@@ -1,0 +1,6 @@
+{
+  "name": "Bulk QR & Barcode Suite",
+  "description": "Professional offline-first suite for high-speed barcode scanning, CSV/Excel session exports, and branded logo custom QR code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
